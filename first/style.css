@@ -1,0 +1,25 @@
+body {
+	margin:0;
+	padding:0;
+	background: #D8D8D8;
+}
+
+.header {
+	background: #444444;
+	height: 10em;
+}
+
+.container {
+	margin: 0 auto;
+	background: #EFEFEF;
+	height: 100%;
+	width: 70%;
+}
+.footer {
+	display; inline-block;
+	position: fixed;
+	bottom: 0;
+	background: #222222;
+	height: 3.5em;
+	width: 70%;
+}
